@@ -1,0 +1,6 @@
+Pandas is an open source data analysis library written in python 
+Pandas have two types of data structures:- 
+  1. Series - It's one dimensional array with indexes, it stores a single column or row of data in a DataFrame.
+            - It is a one-dimensional array holding any type of data.
+  2. DataFrame - It's a tabular spreadsheet like structure representing rows each of which contains one or multiple columns.
+               - It is a two-dimensional data structure with columns of potentially different types of data.
